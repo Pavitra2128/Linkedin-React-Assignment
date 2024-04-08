@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-lg-8: 18.8px;
+  --font-size-smi-6: 12.6px;
+  --font-size-base-7: 15.7px;
+  --font-size-smi: 13px;
+  --font-size-4xs-7: 8.7px;
+  --font-size-mid-8: 17.8px;
+  --font-size-23xl-7: 42.7px;
+  --font-size-15xl: 34px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --m3-sys-light-on-primary: #fff;
+  --brand-slate-green: #2f667f;
+  --light-gray-dark-active: #707070;
+  --light-gray-darker: #575757;
+  --brand-light-tint: #f1f7ed;
+  --color-silver: #c1c6be;
+  --dark-nuetral-dark-nuetral-10: #494c55;
+  --brand-slate-green-light: #539bbb;
+  --color-red: #ff0000;
+  --m3-sys-light-outline: #79747e;
+  --m3-sys-light-on-surface: #1d1b20;
+  --m3-sys-light-surface: #fef7ff;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-8xs-3: 4.3px;
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-base-1: 15.1px;
+  --gap-3xs-8: 9.8px;
+  --gap-2xs-7: 10.7px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-xl: 20px;
+  --padding-3xs: 10px;
+  --padding-5xl: 24px;
+  --padding-7xl-7: 26.7px;
+  --padding-mini-8: 14.8px;
+  --padding-lg-8: 18.8px;
+  --padding-17xl-2: 36.2px;
+  --padding-5xl-3: 24.3px;
+  --padding-lg: 18px;
+  --padding-6xs: 7px;
+  --padding-mini-4: 14.4px;
+  --padding-9xl: 28px;
+  --padding-7xs-5: 5.5px;
+  --padding-lgi-9: 19.9px;
+  --padding-lg-3: 18.3px;
+  --padding-9xs: 4px;
+  --padding-base-4: 16.4px;
+  --padding-lg-7: 18.7px;
+  --padding-lgi: 19px;
+  --padding-17xl: 36px;
+  --padding-8xs-6: 4.6px;
+  --padding-7xs-2: 5.2px;
+  --padding-10xs-5: 2.5px;
+  --padding-10xs-4: 2.4px;
+  --padding-8xs-9: 4.9px;
+  --padding-8xs: 5px;
+  --padding-4xs-9: 8.9px;
+  --padding-16xl-5: 35.5px;
+  --padding-5xl-5: 24.5px;
+  --padding-4xl: 23px;
+  --padding-smi-4: 12.4px;
+  --padding-smi-5: 12.5px;
+  --padding-xl-8: 20.8px;
+  --padding-98xl: 117px;
+  --padding-xl-7: 20.7px;
+  --padding-3xl-2: 22.2px;
+  --padding-87xl: 106px;
+  --padding-99xl: 118px;
+  --padding-22xl: 41px;
+  --padding-78xl: 97px;
+  --padding-79xl: 98px;
+  --padding-105xl: 124px;
+
+  /* Border radiuses */
+  --br-mid-8: 17.8px;
+  --br-2xs-4: 10.4px;
+  --br-10xs-5: 2.5px;
+  --br-42xl-9: 61.9px;
+  --br-16xl-6: 35.6px;
+}
